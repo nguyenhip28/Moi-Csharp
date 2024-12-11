@@ -52,7 +52,7 @@ namespace CW_ThayCuong
 
                 MultipleChoiceQuestion newQuestion = new MultipleChoiceQuestion(question, correctAnswer, option);
                 question_bank.Add(newQuestion);
-                MessageBox.Show("A question was Added");
+                MessageBox.Show("Question added sucessfully!");
                 this.Close();   
             }
             catch (Exception ex)
@@ -63,6 +63,66 @@ namespace CW_ThayCuong
         }
 
         private void tb_question_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tb_correctanswer_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tb_answer4_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tb_answer3_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tb_answer2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tb_answer1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void question_Click(object sender, EventArgs e)
         {
 
         }

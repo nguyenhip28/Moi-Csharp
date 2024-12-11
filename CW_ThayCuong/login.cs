@@ -8,11 +8,13 @@ using System.Media;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using QuizApp;
 
 namespace CW_ThayCuong
 {
     public partial class Login : Form
     {
+        Creater form_creater = new Creater();
         public Login()
         {
             InitializeComponent();
@@ -25,12 +27,11 @@ namespace CW_ThayCuong
             {
                 if (cb_roll.Text == "Admin")
                 {
-                    Creater form_creater = new Creater();
                     form_creater.ShowDialog();
                 }
                 if (cb_roll.Text == "Player")
                 {
-                    Player form_player = new Player();
+                    Players form_player = new Players(form_creater.question_bank);
                     form_player.ShowDialog();
                 }
             }
@@ -38,6 +39,16 @@ namespace CW_ThayCuong
             {
                 MessageBox.Show("Incorrect username or password");
             }
+        }
+
+        private void Login_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void cb_roll_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

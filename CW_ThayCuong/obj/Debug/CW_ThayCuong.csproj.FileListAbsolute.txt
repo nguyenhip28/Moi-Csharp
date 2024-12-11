@@ -38,3 +38,21 @@ C:\Users\Admin\OneDrive\Máy tính\Csharp_ThayCuong-master\CW_ThayCuong\bin\Debu
 C:\Users\Admin\OneDrive\Máy tính\Csharp_ThayCuong-master\CW_ThayCuong\bin\Debug\CW_ThayCuong.pdb
 C:\Users\Admin\OneDrive\Máy tính\Csharp_ThayCuong-master\CW_ThayCuong\obj\Debug\CW_ThayCuong.exe
 C:\Users\Admin\OneDrive\Máy tính\Csharp_ThayCuong-master\CW_ThayCuong\obj\Debug\CW_ThayCuong.TrueorFalseQuestions.resources
+C:\Users\vutha\Desktop\ThayCuong\Moi-Csharp\CW_ThayCuong\bin\Debug\CW_ThayCuong.exe.config
+C:\Users\vutha\Desktop\ThayCuong\Moi-Csharp\CW_ThayCuong\bin\Debug\CW_ThayCuong.exe
+C:\Users\vutha\Desktop\ThayCuong\Moi-Csharp\CW_ThayCuong\bin\Debug\CW_ThayCuong.pdb
+C:\Users\vutha\Desktop\ThayCuong\Moi-Csharp\CW_ThayCuong\obj\Debug\CW_ThayCuong.csproj.AssemblyReference.cache
+C:\Users\vutha\Desktop\ThayCuong\Moi-Csharp\CW_ThayCuong\obj\Debug\CW_ThayCuong.Creater.resources
+C:\Users\vutha\Desktop\ThayCuong\Moi-Csharp\CW_ThayCuong\obj\Debug\CW_ThayCuong.Login.resources
+C:\Users\vutha\Desktop\ThayCuong\Moi-Csharp\CW_ThayCuong\obj\Debug\CW_ThayCuong.MultipleQuestion.resources
+C:\Users\vutha\Desktop\ThayCuong\Moi-Csharp\CW_ThayCuong\obj\Debug\CW_ThayCuong.OpenEndedQuestions.resources
+C:\Users\vutha\Desktop\ThayCuong\Moi-Csharp\CW_ThayCuong\obj\Debug\CW_ThayCuong.Properties.Resources.resources
+C:\Users\vutha\Desktop\ThayCuong\Moi-Csharp\CW_ThayCuong\obj\Debug\CW_ThayCuong.TrueorFalseQuestions.resources
+C:\Users\vutha\Desktop\ThayCuong\Moi-Csharp\CW_ThayCuong\obj\Debug\CW_ThayCuong.csproj.GenerateResource.cache
+C:\Users\vutha\Desktop\ThayCuong\Moi-Csharp\CW_ThayCuong\obj\Debug\CW_ThayCuong.csproj.CoreCompileInputs.cache
+C:\Users\vutha\Desktop\ThayCuong\Moi-Csharp\CW_ThayCuong\obj\Debug\CW_ThayCuong.exe
+C:\Users\vutha\Desktop\ThayCuong\Moi-Csharp\CW_ThayCuong\obj\Debug\CW_ThayCuong.pdb
+C:\Users\vutha\Desktop\ThayCuong\Moi-Csharp\CW_ThayCuong\obj\Debug\CW_ThayCuong.EditMultipleChoice.resources
+C:\Users\vutha\Desktop\ThayCuong\Moi-Csharp\CW_ThayCuong\obj\Debug\CW_ThayCuong.EditOpenEnd.resources
+C:\Users\vutha\Desktop\ThayCuong\Moi-Csharp\CW_ThayCuong\obj\Debug\CW_ThayCuong.EditTrueFalse.resources
+C:\Users\vutha\Desktop\ThayCuong\Moi-Csharp\CW_ThayCuong\obj\Debug\CW_ThayCuong.Players.resources

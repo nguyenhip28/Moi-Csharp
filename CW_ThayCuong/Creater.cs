@@ -5,9 +5,11 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Net.NetworkInformation;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace CW_ThayCuong
 {
@@ -17,6 +19,7 @@ namespace CW_ThayCuong
         public Creater()
         {
             InitializeComponent();
+
         }
 
         private void rb_select_Click(object sender, EventArgs e)
@@ -86,5 +89,68 @@ namespace CW_ThayCuong
             }
         }
 
+        private void bt_edit_Click(object sender, EventArgs e)
+        {
+            string questionMode = cb_modegame.Text;
+            int index = Convert.ToInt32(tb_index.Text)-1;
+
+            if(questionMode == "Multiple choice questions")
+            {
+                EditMultipleChoice form_editmultiplechoice = new EditMultipleChoice(question_bank, index);
+                form_editmultiplechoice.ShowDialog();
+                
+            }
+            if (questionMode == "Open-ended questions")
+            {
+                EditOpenEnd form_editopenend = new EditOpenEnd(question_bank, index);
+                form_editopenend.ShowDialog();
+            }
+
+            if (questionMode == "True or false questions")
+            {
+                EditTrueFalse form_edittruefalse = new EditTrueFalse(question_bank, index);
+                form_edittruefalse.ShowDialog();
+            }
+        }
+
+        private void bt_delete_Click(object sender, EventArgs e)
+        {
+            string questionIndex = tb_index.Text.Trim();
+            if (string.IsNullOrEmpty(questionIndex))
+            {
+                MessageBox.Show("Please enter the index of the question to delete.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+            if (!int.TryParse(questionIndex, out int index) || index < 1 || index > question_bank.Count)
+            {
+                MessageBox.Show("Invalid question index. Please provide a valid number within range.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+            DialogResult confirmation = MessageBox.Show(
+                $"Are you sure you want to delete question:{index}?",
+                "Confirm Deletion",
+                MessageBoxButtons.YesNo,
+                MessageBoxIcon.Question
+            );
+
+            if (confirmation == DialogResult.Yes)
+            {
+                question_bank.RemoveAt(index - 1);
+                MessageBox.Show("Question deleted successfully!", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                tb_index.Clear();
+                bt_display_Click(sender, e);
+            }
+            else
+            {
+                MessageBox.Show("Deletion canceled.", "Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+        }
     }
 }
+
+
+
+
+
+
+

@@ -53,6 +53,7 @@
             this.question.Size = new System.Drawing.Size(49, 13);
             this.question.TabIndex = 0;
             this.question.Text = "Question";
+            this.question.Click += new System.EventHandler(this.question_Click);
             // 
             // label1
             // 
@@ -62,6 +63,7 @@
             this.label1.Size = new System.Drawing.Size(51, 13);
             this.label1.TabIndex = 1;
             this.label1.Text = "Answer 1";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
@@ -71,6 +73,7 @@
             this.label2.Size = new System.Drawing.Size(51, 13);
             this.label2.TabIndex = 2;
             this.label2.Text = "Answer 2";
+            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // label3
             // 
@@ -80,6 +83,7 @@
             this.label3.Size = new System.Drawing.Size(51, 13);
             this.label3.TabIndex = 3;
             this.label3.Text = "Answer 3";
+            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // label4
             // 
@@ -89,6 +93,7 @@
             this.label4.Size = new System.Drawing.Size(51, 13);
             this.label4.TabIndex = 4;
             this.label4.Text = "Answer 4";
+            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // tb_question
             // 
@@ -104,6 +109,7 @@
             this.tb_answer1.Name = "tb_answer1";
             this.tb_answer1.Size = new System.Drawing.Size(200, 20);
             this.tb_answer1.TabIndex = 6;
+            this.tb_answer1.TextChanged += new System.EventHandler(this.tb_answer1_TextChanged);
             // 
             // tb_answer2
             // 
@@ -111,6 +117,7 @@
             this.tb_answer2.Name = "tb_answer2";
             this.tb_answer2.Size = new System.Drawing.Size(200, 20);
             this.tb_answer2.TabIndex = 7;
+            this.tb_answer2.TextChanged += new System.EventHandler(this.tb_answer2_TextChanged);
             // 
             // tb_answer3
             // 
@@ -118,6 +125,7 @@
             this.tb_answer3.Name = "tb_answer3";
             this.tb_answer3.Size = new System.Drawing.Size(200, 20);
             this.tb_answer3.TabIndex = 8;
+            this.tb_answer3.TextChanged += new System.EventHandler(this.tb_answer3_TextChanged);
             // 
             // tb_answer4
             // 
@@ -125,6 +133,7 @@
             this.tb_answer4.Name = "tb_answer4";
             this.tb_answer4.Size = new System.Drawing.Size(197, 20);
             this.tb_answer4.TabIndex = 9;
+            this.tb_answer4.TextChanged += new System.EventHandler(this.tb_answer4_TextChanged);
             // 
             // tb_correctanswer
             // 
@@ -132,6 +141,7 @@
             this.tb_correctanswer.Name = "tb_correctanswer";
             this.tb_correctanswer.Size = new System.Drawing.Size(202, 20);
             this.tb_correctanswer.TabIndex = 10;
+            this.tb_correctanswer.TextChanged += new System.EventHandler(this.tb_correctanswer_TextChanged);
             // 
             // label5
             // 
@@ -141,6 +151,7 @@
             this.label5.Size = new System.Drawing.Size(79, 13);
             this.label5.TabIndex = 11;
             this.label5.Text = "Correct Answer";
+            this.label5.Click += new System.EventHandler(this.label5_Click);
             // 
             // bt_add_question
             // 
@@ -161,6 +172,7 @@
             this.button1.TabIndex = 13;
             this.button1.Text = "Multiple choice questions";
             this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // MultipleQuestion
             // 

@@ -37,7 +37,7 @@ namespace QuizApp
     public class OpenEndQuestion : Question
     {
         public List<string> AcceptableAnswers { get; set; }
-
+        
         public OpenEndQuestion(string questionText, List<string> acceptableAnswers) : base(questionText)
         {
             this.AcceptableAnswers = acceptableAnswers;

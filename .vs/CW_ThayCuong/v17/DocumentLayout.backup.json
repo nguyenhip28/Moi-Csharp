@@ -1,74 +1,104 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\",
+  "WorkspaceRootPath": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\csharp_thaycuong-master\\cw_thaycuong\\trueorfalsequestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|solutionrelative:cw_thaycuong\\trueorfalsequestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|c:\\users\\vutha\\desktop\\thaycuong\\moi-csharp\\cw_thaycuong\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|solutionrelative:cw_thaycuong\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\cw_thaycuong\\trueorfalsequestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|solutionrelative:cw_thaycuong\\trueorfalsequestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\cw_thaycuong\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|solutionrelative:cw_thaycuong\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\cw_thaycuong\\openendedquestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|solutionrelative:cw_thaycuong\\openendedquestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\csharp_thaycuong-master\\cw_thaycuong\\openendedquestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|solutionrelative:cw_thaycuong\\openendedquestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\cw_thaycuong\\multiplequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|solutionrelative:cw_thaycuong\\multiplequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\cw_thaycuong\\creater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\cw_thaycuong\\creater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|solutionrelative:cw_thaycuong\\creater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\cw_thaycuong\\creater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\cw_thaycuong\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|solutionrelative:cw_thaycuong\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\cw_thaycuong\\players.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|solutionrelative:cw_thaycuong\\players.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\cw_thaycuong\\players.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|solutionrelative:cw_thaycuong\\players.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\cw_thaycuong\\creater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|solutionrelative:cw_thaycuong\\creater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\csharp_thaycuong-master\\cw_thaycuong\\trueorfalsequestions.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|solutionrelative:cw_thaycuong\\trueorfalsequestions.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\cw_thaycuong\\edittruefalse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|solutionrelative:cw_thaycuong\\edittruefalse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\cw_thaycuong\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|solutionrelative:cw_thaycuong\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\cw_thaycuong\\edittruefalse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|solutionrelative:cw_thaycuong\\edittruefalse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\cw_thaycuong\\multiplequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\cw_thaycuong\\editopenend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|solutionrelative:cw_thaycuong\\editopenend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\cw_thaycuong\\editopenend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|solutionrelative:cw_thaycuong\\editopenend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\cw_thaycuong\\editmultiplechoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|solutionrelative:cw_thaycuong\\editmultiplechoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\cw_thaycuong\\editmultiplechoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|solutionrelative:cw_thaycuong\\editmultiplechoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\cw_thaycuong\\multiplequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|solutionrelative:cw_thaycuong\\multiplequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\CW_ThayCuong\\Creater.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|solutionrelative:CW_ThayCuong\\Creater.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\cw_thaycuong\\multiplequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|solutionrelative:cw_thaycuong\\multiplequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\cw_thaycuong\\multiplequestion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|solutionrelative:cw_thaycuong\\multiplequestion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\cw_thaycuong\\trueorfalsequestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|solutionrelative:cw_thaycuong\\trueorfalsequestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\cw_thaycuong\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|solutionrelative:cw_thaycuong\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\cw_thaycuong\\trueorfalsequestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|solutionrelative:cw_thaycuong\\trueorfalsequestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\cw_thaycuong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\cw_thaycuong\\openendedquestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|solutionrelative:cw_thaycuong\\openendedquestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\cw_thaycuong\\openendedquestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|solutionrelative:cw_thaycuong\\openendedquestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\cw_thaycuong\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|solutionrelative:cw_thaycuong\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\cw_thaycuong\\creater.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|solutionrelative:cw_thaycuong\\creater.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\cw_thaycuong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|solutionrelative:cw_thaycuong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\CW_ThayCuong\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|solutionrelative:CW_ThayCuong\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\cw_thaycuong\\players.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|solutionrelative:cw_thaycuong\\players.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\CW_ThayCuong\\login.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\login.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81DAB88E-AD32-4966-BC0D-0BB33A3741B6}|CW_ThayCuong\\CW_ThayCuong.csproj|solutionrelative:CW_ThayCuong\\login.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vutha\\AppData\\Local\\Temp\\Zalo Temp\\1471806\\Question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vutha\\AppData\\Local\\Temp\\Zalo Temp\\888574\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,190 +108,202 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "OpenEndedQuestions.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\CW_ThayCuong\\OpenEndedQuestions.cs",
-              "RelativeDocumentMoniker": "CW_ThayCuong\\OpenEndedQuestions.cs",
-              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\CW_ThayCuong\\OpenEndedQuestions.cs [Design]",
-              "RelativeToolTip": "CW_ThayCuong\\OpenEndedQuestions.cs [Design]",
+              "Title": "Players.cs",
+              "DocumentMoniker": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\Players.cs",
+              "RelativeDocumentMoniker": "CW_ThayCuong\\Players.cs",
+              "ToolTip": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\Players.cs",
+              "RelativeToolTip": "CW_ThayCuong\\Players.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAmwKEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T07:28:30.543Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-10T04:08:12.181Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditOpenEnd.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\EditOpenEnd.cs",
+              "RelativeDocumentMoniker": "CW_ThayCuong\\EditOpenEnd.cs",
+              "ToolTip": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\EditOpenEnd.cs [Design]",
+              "RelativeToolTip": "CW_ThayCuong\\EditOpenEnd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:28:33.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MultipleQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\MultipleQuestion.cs",
+              "RelativeDocumentMoniker": "CW_ThayCuong\\MultipleQuestion.cs",
+              "ToolTip": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\MultipleQuestion.cs",
+              "RelativeToolTip": "CW_ThayCuong\\MultipleQuestion.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:21:52.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TrueorFalseQuestions.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\TrueorFalseQuestions.cs",
+              "RelativeDocumentMoniker": "CW_ThayCuong\\TrueorFalseQuestions.cs",
+              "ToolTip": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\TrueorFalseQuestions.cs [Design]",
+              "RelativeToolTip": "CW_ThayCuong\\TrueorFalseQuestions.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:43:30.042Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TrueorFalseQuestions.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\CW_ThayCuong\\TrueorFalseQuestions.cs",
-              "RelativeDocumentMoniker": "CW_ThayCuong\\TrueorFalseQuestions.cs",
-              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\CW_ThayCuong\\TrueorFalseQuestions.cs [Design]",
-              "RelativeToolTip": "CW_ThayCuong\\TrueorFalseQuestions.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T07:29:07.706Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Creater.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\CW_ThayCuong\\Creater.cs",
+              "DocumentMoniker": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\Creater.cs",
               "RelativeDocumentMoniker": "CW_ThayCuong\\Creater.cs",
-              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\CW_ThayCuong\\Creater.cs",
+              "ToolTip": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\Creater.cs",
               "RelativeToolTip": "CW_ThayCuong\\Creater.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAqwEoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAUwF4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T07:24:45.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T04:28:49.403Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MultipleQuestion.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\CW_ThayCuong\\MultipleQuestion.cs",
-              "RelativeDocumentMoniker": "CW_ThayCuong\\MultipleQuestion.cs",
-              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\CW_ThayCuong\\MultipleQuestion.cs [Design]",
-              "RelativeToolTip": "CW_ThayCuong\\MultipleQuestion.cs [Design]",
+              "DocumentIndex": 16,
+              "Title": "OpenEndedQuestions.cs",
+              "DocumentMoniker": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\OpenEndedQuestions.cs",
+              "RelativeDocumentMoniker": "CW_ThayCuong\\OpenEndedQuestions.cs",
+              "ToolTip": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\OpenEndedQuestions.cs",
+              "RelativeToolTip": "CW_ThayCuong\\OpenEndedQuestions.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwD0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T07:27:10.749Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-10T14:12:41.782Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "login.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\CW_ThayCuong\\login.cs",
+              "DocumentMoniker": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\login.cs",
               "RelativeDocumentMoniker": "CW_ThayCuong\\login.cs",
-              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\CW_ThayCuong\\login.cs [Design]",
+              "ToolTip": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\login.cs [Design]",
               "RelativeToolTip": "CW_ThayCuong\\login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T06:55:27.903Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Creater.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\CW_ThayCuong\\Creater.cs",
-              "RelativeDocumentMoniker": "CW_ThayCuong\\Creater.cs",
-              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\CW_ThayCuong\\Creater.cs [Design]",
-              "RelativeToolTip": "CW_ThayCuong\\Creater.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T07:13:06.68Z",
+              "WhenOpened": "2024-12-10T04:21:08.88Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TrueorFalseQuestions.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\CW_ThayCuong\\TrueorFalseQuestions.cs",
-              "RelativeDocumentMoniker": "CW_ThayCuong\\TrueorFalseQuestions.cs",
-              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\CW_ThayCuong\\TrueorFalseQuestions.cs",
-              "RelativeToolTip": "CW_ThayCuong\\TrueorFalseQuestions.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAUwCgAAAArAAAAAAAAAA==",
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\login.cs",
+              "RelativeDocumentMoniker": "CW_ThayCuong\\login.cs",
+              "ToolTip": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\login.cs",
+              "RelativeToolTip": "CW_ThayCuong\\login.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T13:51:08.927Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OpenEndedQuestions.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\CW_ThayCuong\\OpenEndedQuestions.cs",
-              "RelativeDocumentMoniker": "CW_ThayCuong\\OpenEndedQuestions.cs",
-              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\CW_ThayCuong\\OpenEndedQuestions.cs",
-              "RelativeToolTip": "CW_ThayCuong\\OpenEndedQuestions.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAiwDsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T12:55:06.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Question.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\CW_ThayCuong\\Question.cs",
-              "RelativeDocumentMoniker": "CW_ThayCuong\\Question.cs",
-              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\CW_ThayCuong\\Question.cs",
-              "RelativeToolTip": "CW_ThayCuong\\Question.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T01:20:45.12Z",
+              "WhenOpened": "2024-11-28T07:08:04.942Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "TrueorFalseQuestions.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\CW_ThayCuong\\TrueorFalseQuestions.Designer.cs",
-              "RelativeDocumentMoniker": "CW_ThayCuong\\TrueorFalseQuestions.Designer.cs",
-              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\CW_ThayCuong\\TrueorFalseQuestions.Designer.cs",
-              "RelativeToolTip": "CW_ThayCuong\\TrueorFalseQuestions.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAABAAAAAAAAAA==",
+              "Title": "EditOpenEnd.cs",
+              "DocumentMoniker": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\EditOpenEnd.cs",
+              "RelativeDocumentMoniker": "CW_ThayCuong\\EditOpenEnd.cs",
+              "ToolTip": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\EditOpenEnd.cs",
+              "RelativeToolTip": "CW_ThayCuong\\EditOpenEnd.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwCAAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T13:48:16.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T03:28:35.358Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Creater.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\CW_ThayCuong\\Creater.Designer.cs",
-              "RelativeDocumentMoniker": "CW_ThayCuong\\Creater.Designer.cs",
-              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\CW_ThayCuong\\Creater.Designer.cs",
-              "RelativeToolTip": "CW_ThayCuong\\Creater.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKEAAAABAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "EditTrueFalse.cs",
+              "DocumentMoniker": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\EditTrueFalse.cs",
+              "RelativeDocumentMoniker": "CW_ThayCuong\\EditTrueFalse.cs",
+              "ToolTip": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\EditTrueFalse.cs",
+              "RelativeToolTip": "CW_ThayCuong\\EditTrueFalse.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T07:27:14.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T03:30:02.456Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MultipleQuestion.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\CW_ThayCuong\\MultipleQuestion.cs",
-              "RelativeDocumentMoniker": "CW_ThayCuong\\MultipleQuestion.cs",
-              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\CW_ThayCuong\\MultipleQuestion.cs",
-              "RelativeToolTip": "CW_ThayCuong\\MultipleQuestion.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAgwDcAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Creater.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\Creater.cs",
+              "RelativeDocumentMoniker": "CW_ThayCuong\\Creater.cs",
+              "ToolTip": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\Creater.cs [Design]",
+              "RelativeToolTip": "CW_ThayCuong\\Creater.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T01:21:52.941Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T04:28:47.09Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MultipleQuestion.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\CW_ThayCuong\\MultipleQuestion.Designer.cs",
-              "RelativeDocumentMoniker": "CW_ThayCuong\\MultipleQuestion.Designer.cs",
-              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\CW_ThayCuong\\MultipleQuestion.Designer.cs",
-              "RelativeToolTip": "CW_ThayCuong\\MultipleQuestion.Designer.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAmwM8AAAABAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Players.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\Players.cs",
+              "RelativeDocumentMoniker": "CW_ThayCuong\\Players.cs",
+              "ToolTip": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\Players.cs [Design]",
+              "RelativeToolTip": "CW_ThayCuong\\Players.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T01:22:49.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T04:10:05.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditTrueFalse.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\EditTrueFalse.cs",
+              "RelativeDocumentMoniker": "CW_ThayCuong\\EditTrueFalse.cs",
+              "ToolTip": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\EditTrueFalse.cs [Design]",
+              "RelativeToolTip": "CW_ThayCuong\\EditTrueFalse.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T05:08:06.116Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Player.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\CW_ThayCuong\\Player.cs",
-              "RelativeDocumentMoniker": "CW_ThayCuong\\Player.cs",
-              "ToolTip": "C:\\Users\\trinhanhpc\\OneDrive\\M\u00E1y t\u00EDnh\\Comp1551-Fall24-Code-main (2)\\repos\\CW_ThayCuong\\CW_ThayCuong\\Player.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\trinhanhpc\\OneDrive\\M\u00E1y t\u00EDnh\\Comp1551-Fall24-Code-main (2)\\repos\\CW_ThayCuong\\CW_ThayCuong\\Player.cs [Design]",
+              "Title": "MultipleQuestion.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\MultipleQuestion.cs",
+              "RelativeDocumentMoniker": "CW_ThayCuong\\MultipleQuestion.cs",
+              "ToolTip": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\MultipleQuestion.cs [Design]",
+              "RelativeToolTip": "CW_ThayCuong\\MultipleQuestion.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T07:13:29.064Z"
+              "WhenOpened": "2024-11-28T07:27:10.749Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 11,
+              "Title": "EditMultipleChoice.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\EditMultipleChoice.cs",
+              "RelativeDocumentMoniker": "CW_ThayCuong\\EditMultipleChoice.cs",
+              "ToolTip": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\EditMultipleChoice.cs [Design]",
+              "RelativeToolTip": "CW_ThayCuong\\EditMultipleChoice.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T04:30:30.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditMultipleChoice.cs",
+              "DocumentMoniker": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\EditMultipleChoice.cs",
+              "RelativeDocumentMoniker": "CW_ThayCuong\\EditMultipleChoice.cs",
+              "ToolTip": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\EditMultipleChoice.cs",
+              "RelativeToolTip": "CW_ThayCuong\\EditMultipleChoice.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwFkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T04:30:31.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\CW_ThayCuong\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\Program.cs",
               "RelativeDocumentMoniker": "CW_ThayCuong\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\CW_ThayCuong\\Program.cs",
+              "ToolTip": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\Program.cs",
               "RelativeToolTip": "CW_ThayCuong\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -269,29 +311,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "login.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\CW_ThayCuong\\login.cs",
-              "RelativeDocumentMoniker": "CW_ThayCuong\\login.cs",
-              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\CW_ThayCuong\\login.cs",
-              "RelativeToolTip": "CW_ThayCuong\\login.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAADwvxwAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 18,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\Question.cs",
+              "RelativeDocumentMoniker": "CW_ThayCuong\\Question.cs",
+              "ToolTip": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\Question.cs",
+              "RelativeToolTip": "CW_ThayCuong\\Question.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwCcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T07:08:04.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T04:16:18.245Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 14,
+              "Title": "TrueorFalseQuestions.cs",
+              "DocumentMoniker": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\TrueorFalseQuestions.cs",
+              "RelativeDocumentMoniker": "CW_ThayCuong\\TrueorFalseQuestions.cs",
+              "ToolTip": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\TrueorFalseQuestions.cs",
+              "RelativeToolTip": "CW_ThayCuong\\TrueorFalseQuestions.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:43:43.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OpenEndedQuestions.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\OpenEndedQuestions.cs",
+              "RelativeDocumentMoniker": "CW_ThayCuong\\OpenEndedQuestions.cs",
+              "ToolTip": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\OpenEndedQuestions.cs [Design]",
+              "RelativeToolTip": "CW_ThayCuong\\OpenEndedQuestions.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T05:06:47.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Creater.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\Creater.Designer.cs",
+              "RelativeDocumentMoniker": "CW_ThayCuong\\Creater.Designer.cs",
+              "ToolTip": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\Creater.Designer.cs",
+              "RelativeToolTip": "CW_ThayCuong\\Creater.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T06:52:39.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Players.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\Players.Designer.cs",
+              "RelativeDocumentMoniker": "CW_ThayCuong\\Players.Designer.cs",
+              "ToolTip": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\Players.Designer.cs",
+              "RelativeToolTip": "CW_ThayCuong\\Players.Designer.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAqwH8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T04:06:06.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\vutha\\AppData\\Local\\Temp\\Zalo Temp\\888574\\Player.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\Zalo Temp\\888574\\Player.cs",
+              "ToolTip": "C:\\Users\\vutha\\AppData\\Local\\Temp\\Zalo Temp\\888574\\Player.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\Zalo Temp\\888574\\Player.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T04:08:22.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\vutha\\AppData\\Local\\Temp\\Zalo Temp\\1471806\\Question.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\Zalo Temp\\1471806\\Question.cs",
+              "ToolTip": "C:\\Users\\vutha\\AppData\\Local\\Temp\\Zalo Temp\\1471806\\Question.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\Zalo Temp\\1471806\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T04:18:05.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "login.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\CW_ThayCuong\\login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\login.Designer.cs",
               "RelativeDocumentMoniker": "CW_ThayCuong\\login.Designer.cs",
-              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\Csharp_ThayCuong-master\\CW_ThayCuong\\login.Designer.cs",
+              "ToolTip": "C:\\Users\\vutha\\Desktop\\ThayCuong\\Moi-Csharp\\CW_ThayCuong\\login.Designer.cs",
               "RelativeToolTip": "CW_ThayCuong\\login.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T07:13:53.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T07:13:53.569Z"
             }
           ]
         }

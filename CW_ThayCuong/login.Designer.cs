@@ -84,6 +84,7 @@
             this.cb_roll.Name = "cb_roll";
             this.cb_roll.Size = new System.Drawing.Size(202, 21);
             this.cb_roll.TabIndex = 4;
+            this.cb_roll.SelectedIndexChanged += new System.EventHandler(this.cb_roll_SelectedIndexChanged);
             // 
             // Roll
             // 
@@ -130,6 +131,7 @@
             this.Controls.Add(this.U);
             this.Name = "Login";
             this.Text = "Login";
+            this.Load += new System.EventHandler(this.Login_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

@@ -39,10 +39,9 @@ namespace CW_ThayCuong
             var newQuestion = new TrueOrFalseQuestion(questionText, isTrue);
 
             question_bank.Add(newQuestion);
-            this.Close();
             rtb_question.Clear();
             cb_answer.SelectedIndex = -1;
-
+            this.Close();
             MessageBox.Show("Question added successfully!", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
     }
